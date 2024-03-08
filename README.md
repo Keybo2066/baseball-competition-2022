@@ -4,6 +4,8 @@
 野球の試合データを用いた試合時間予測モデルの提案  
 Game time prediction model using baseball game data.  
 
+日本統計学会スポーツデータサイエンスコンペティション2022　優秀賞
+
 ***
 ![baseball_pred_page-0001](https://github.com/Keybo2066/baseball-competition-2022/assets/110601821/3c7f0e54-429b-49ae-b2da-0a4a1b020c70)
 ![baseball_pred_page-0002](https://github.com/Keybo2066/baseball-competition-2022/assets/110601821/c76afc2d-2579-4676-b991-eee5144203d7)
