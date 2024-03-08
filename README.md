@@ -1,5 +1,5 @@
 # baseball-competition-2022
-
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d4632433633432e7376673f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765](https://github.com/Keybo2066/2023-Data-Analysis-Competition-sponsored-by-the-Joint-Council-of-Management-Science-Research-Groups/assets/110601821/6cdaeec1-ee01-4197-bf5c-e47f673dc82a)
 
 野球の試合データを用いた試合時間予測モデルの提案  
 Game time prediction model using baseball game data.  
